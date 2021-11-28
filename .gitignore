@@ -86,3 +86,6 @@ Plugins/AutoSizeComments/ASCCache/
 *Maps/
 *Demo/
 !Content/_Game/Maps/
+
+# macOS dsstore
+.DS_Store
