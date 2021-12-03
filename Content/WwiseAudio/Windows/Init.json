@@ -5,11 +5,11 @@
   "SchemaVersion": "12",
   "SoundbankVersion": "140",
   "RootPaths": {
-   "ProjectRoot": "D:\\Projects\\Unreal\\TestWwise\\TestWwise_WwiseProject\\",
-   "SourceFilesRoot": "D:\\Projects\\Unreal\\TestWwise\\TestWwise_WwiseProject\\.cache\\Windows\\",
-   "SoundBanksRoot": "D:\\Projects\\Unreal\\TestWwise\\Content\\WwiseAudio\\Windows\\",
+   "ProjectRoot": "/Users/willbiechoo/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/z:/Volumes/Samsung_T5/GitHub/backtrace-game-jam/TestWwise_WwiseProject/",
+   "SourceFilesRoot": "/Users/willbiechoo/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/z:/Volumes/Samsung_T5/GitHub/backtrace-game-jam/TestWwise_WwiseProject/.cache/Windows/",
+   "SoundBanksRoot": "/Users/willbiechoo/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/z:/Volumes/Samsung_T5/GitHub/backtrace-game-jam/Content/WwiseAudio/Windows/",
    "ExternalSourcesInputFile": "",
-   "ExternalSourcesOutputRoot": "D:\\Projects\\Unreal\\TestWwise\\TestWwise_WwiseProject\\GeneratedSoundBanks\\Windows"
+   "ExternalSourcesOutputRoot": "/Users/willbiechoo/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/z:/Volumes/Samsung_T5/GitHub/backtrace-game-jam/TestWwise_WwiseProject/GeneratedSoundBanks/Windows"
   },
   "SoundBanks": [
    {

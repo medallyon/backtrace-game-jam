@@ -1,6 +1,8 @@
 Event	ID	Name			Wwise Object Path	Notes
+	2385628198	footsteps			\Default Work Unit\footsteps	
 	3157003241	Test			\Default Work Unit\Test	
 
 In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
-	877233872	Test	D:\Projects\Unreal\TestWwise\TestWwise_WwiseProject\.cache\Windows\SFX\Cartoon, Misc, Cartoon Character, High Pitched Laughter, Hysterical, Funny, Male 2 SND15255 2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Test		171504
+	452156731	player_footsteps_concrete_01	Z:\Volumes\Samsung_T5\GitHub\backtrace-game-jam\TestWwise_WwiseProject\.cache\Windows\SFX\Footsteps, Human, Rock, Walk SND62096 5_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\player_footsteps_concrete_01		34644
+	877233872	Test	Z:\Volumes\Samsung_T5\GitHub\backtrace-game-jam\TestWwise_WwiseProject\.cache\Windows\SFX\Cartoon, Misc, Cartoon Character, High Pitched Laughter, Hysterical, Funny, Male 2 SND15255 2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Test		171504
 

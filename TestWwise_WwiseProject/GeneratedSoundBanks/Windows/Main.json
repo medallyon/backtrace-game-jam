@@ -1,0 +1,62 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "12",
+  "SoundbankVersion": "140",
+  "RootPaths": {
+   "ProjectRoot": "/Users/willbiechoo/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/z:/Volumes/Samsung_T5/GitHub/backtrace-game-jam/TestWwise_WwiseProject/",
+   "SourceFilesRoot": "/Users/willbiechoo/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/z:/Volumes/Samsung_T5/GitHub/backtrace-game-jam/TestWwise_WwiseProject/.cache/Windows/",
+   "SoundBanksRoot": "/Users/willbiechoo/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/z:/Volumes/Samsung_T5/GitHub/backtrace-game-jam/TestWwise_WwiseProject/GeneratedSoundBanks/Windows/",
+   "ExternalSourcesInputFile": "",
+   "ExternalSourcesOutputRoot": "/Users/willbiechoo/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/z:/Volumes/Samsung_T5/GitHub/backtrace-game-jam/TestWwise_WwiseProject/GeneratedSoundBanks/Windows"
+  },
+  "SoundBanks": [
+   {
+    "Id": "3161908922",
+    "GUID": "{B2899488-88F5-40EF-AA84-425F182C44EF}",
+    "Language": "SFX",
+    "Hash": "81459569",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\Main",
+    "ShortName": "Main",
+    "Path": "Main.bnk",
+    "IncludedEvents": [
+     {
+      "Id": "2385628198",
+      "Name": "footsteps",
+      "ObjectPath": "\\Events\\Default Work Unit\\footsteps",
+      "GUID": "{F50CFCE8-F383-42C9-B8FA-DDDB4D358FF5}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.360208",
+      "DurationMax": "0.360208",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "452156731",
+        "Language": "SFX",
+        "ShortName": "Footsteps, Human, Rock, Walk SND62096 5.wav",
+        "Path": "SFX/Footsteps, Human, Rock, Walk SND62096 5_10C4C929.wem"
+       }
+      ]
+     },
+     {
+      "Id": "3157003241",
+      "Name": "Test",
+      "ObjectPath": "\\Events\\Default Work Unit\\Test",
+      "GUID": "{D4ACB12E-6CD3-405A-BB0F-1E174184C4EF}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.892927",
+      "DurationMax": "0.892927",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "877233872",
+        "Language": "SFX",
+        "ShortName": "Cartoon, Misc, Cartoon Character, High Pitched Laughter, Hysterical, Funny, Male 2 SND15255 2.wav",
+        "Path": "SFX/Cartoon, Misc, Cartoon Character, High Pitched Laughter, Hysterical, Funny, Male 2 SND15255 2_10C4C929.wem"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}
