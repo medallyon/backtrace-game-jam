@@ -1,0 +1,416 @@
+{
+    "eulas": [
+        {
+            "displayName": "Wwise",
+            "fileName": "Eula.txt",
+            "id": "Wwise"
+        },
+        {
+            "displayName": "Ogg Vorbis",
+            "fileName": "LegalOggVorbis.txt",
+            "id": "Ogg"
+        },
+        {
+            "displayName": "QtAACEnc",
+            "fileName": "LegalQtaacenc.txt",
+            "id": "QtAAC"
+        },
+        {
+            "displayName": "Auro",
+            "fileName": "LegalAuro.txt",
+            "id": "Auro"
+        },
+        {
+            "displayName": "Crankcase Audio",
+            "fileName": "LegalCrankcaseAudioREV.txt",
+            "id": "Crankcase"
+        },
+        {
+            "displayName": "iZotope",
+            "fileName": "LegalIZotope.txt",
+            "id": "iZotope"
+        },
+        {
+            "displayName": "McDSP",
+            "fileName": "LegalMcDsp.txt",
+            "id": "McDSP"
+        }
+    ],
+    "files": [
+        {
+            "documentationFiles": [],
+            "groups": [
+                {
+                    "groupId": "Packages",
+                    "groupValueId": "Unreal"
+                },
+                {
+                    "groupId": "DeploymentPlatforms",
+                    "groupValueId": "UE426"
+                }
+            ],
+            "id": "Unreal.4.26.tar.xz",
+            "licenses": [],
+            "name": "Unreal.4.26.tar.xz",
+            "sha1": "5a48c7695b26cc8db1b3e2b34d8115538ddfd094",
+            "size": 36286140,
+            "sourceName": "Unreal.4.26.tar.xz",
+            "uncompressedSize": 234615808,
+            "url": "https://blob-api-builds.gowwise.com/UE4_2021.1.5.7749.2171/Unreal.4.26.tar.xz?Expires=1638571206&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ibG9iLWFwaS1idWlsZHMuZ293d2lzZS5jb20vVUU0XzIwMjEuMS41Ljc3NDkuMjE3MS9VbnJlYWwuNC4yNi50YXIueHoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2Mzg1NzEyMDZ9fX1dfQ__&Signature=gUHZBQWQYLHvzs9fFGO7vci~gT162yGskkj-s4cPFh9eIvHNZvBs46JL0MsZa5njbZCsc7cjWWPqeI6Wf~QMHB7xYRS89MISxkmp3yBwCyJUkrYxzG7KwiPJ7CskCmYd~ctRD6Vs0uU72G4rsmjsSCJnhQVykdWE3y7l7Y-QtP9sYskejJ3vL-PQF28dg~yTRELY1W5BDZnHkY2A4AA1cvmgkpixkTq3ARxD~dhZJiTzpEYPpXfNSLVrkLD~5JCcGGM~0lrH-u7gG5Io8YqL7Dfb9TBUv9xSU-bxzc~hXhxhU9bUalENdPALOfSSGRptfl9FPlX46FQY7wxV38FuYg__&Key-Pair-Id=K2C8231G2H0728"
+        },
+        {
+            "documentationFiles": [],
+            "groups": [
+                {
+                    "groupId": "Packages",
+                    "groupValueId": "Unreal"
+                },
+                {
+                    "groupId": "DeploymentPlatforms",
+                    "groupValueId": "UE427"
+                }
+            ],
+            "id": "Unreal.4.27.tar.xz",
+            "licenses": [],
+            "name": "Unreal.4.27.tar.xz",
+            "sha1": "0f7e5ad44a13e10664f4b8b08442041a33a048b0",
+            "size": 37434524,
+            "sourceName": "Unreal.4.27.tar.xz",
+            "uncompressedSize": 245093376,
+            "url": "https://blob-api-builds.gowwise.com/UE4_2021.1.5.7749.2171/Unreal.4.27.tar.xz?Expires=1638571206&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ibG9iLWFwaS1idWlsZHMuZ293d2lzZS5jb20vVUU0XzIwMjEuMS41Ljc3NDkuMjE3MS9VbnJlYWwuNC4yNy50YXIueHoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2Mzg1NzEyMDZ9fX1dfQ__&Signature=wV4oIc3TS3XWIcP8~KvFaGDCFlJCchtKkZPmH18dAhUKPbd4pw9NlWHID2exeIecVmo4L6gREVohp3px0a-c0mnTrZJwgmPNfNPs3ngH4KlET1gydhQxl4ZIBqGOiR0wAmjh4rng1M00WPMygLvz6vliYTvquNGjC646-Jt~VEUYZ1TpFYf3hz85YpVyDiewicPXKzxgqobRWgqWaNuktkaBOuOt0X40zQ~fCGwGykdpOrblOUV96XVvLabn-p~aqMEw2logcH1vuj3gZVyApQ9ZWTxtpbwj9U-IavfAAEKLBazS3913~nXSrUcgmYOUhkzAbhlesdKQ6m7xGLmXgQ__&Key-Pair-Id=K2C8231G2H0728"
+        },
+        {
+            "documentationFiles": [],
+            "groups": [
+                {
+                    "groupId": "Packages",
+                    "groupValueId": "Unreal"
+                },
+                {
+                    "groupId": "DeploymentPlatforms",
+                    "groupValueId": "UE50"
+                }
+            ],
+            "id": "Unreal.5.0.tar.xz",
+            "licenses": [],
+            "name": "Unreal.5.0.tar.xz",
+            "sha1": "67d4ae5912e3750bccc141f04d47324b031a4919",
+            "size": 39072184,
+            "sourceName": "Unreal.5.0.tar.xz",
+            "uncompressedSize": 257682944,
+            "url": "https://blob-api-builds.gowwise.com/UE4_2021.1.5.7749.2171/Unreal.5.0.tar.xz?Expires=1638571206&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ibG9iLWFwaS1idWlsZHMuZ293d2lzZS5jb20vVUU0XzIwMjEuMS41Ljc3NDkuMjE3MS9VbnJlYWwuNS4wLnRhci54eiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYzODU3MTIwNn19fV19&Signature=Hq7OSHTyPaFFIrOwPve~b3HTEx2WZXhlfpfoM9wsXQfxCc9cadXryERhrbimhZMaiX-PDLP7kKDNymBkJ06UbWXC9rX5Tl7mVdZ~efZcCGRDN0Xwq5T2HOOsVgW1Aod5GxQS6hnR70hJn8S-dsFei6Y3pugi7ii2-m5vmUskAYDQp4IZBJvmYdkQAStKNoHeLdTIO6miezQwC3urlvSkOSEZf3ZGz3Ds3U8l4YbC~hCAoF3aohQrE~wM-X6AqK53hdC1FEmWp6NIR6mWGphEKWNeI~pRd2qBsEAJ82Vg7SH9qOwTE64uJv1~gfGmzTnRD5fKJVk9XisZivh9yjhI1g__&Key-Pair-Id=K2C8231G2H0728"
+        },
+        {
+            "documentationFiles": [
+                {
+                    "displayName": "Unreal Integration Documentation (CHM/English)",
+                    "path": "\\Wwise\\Wwise_UE4_Integration.chm"
+                },
+                {
+                    "displayName": "Unreal Integration Documentation (CHM/Japanese)",
+                    "path": "\\Wwise\\Wwise_UE4_Integration_ja.chm"
+                },
+                {
+                    "displayName": "Unreal Integration Documentation (CHM/Korean)",
+                    "path": "\\Wwise\\Wwise_UE4_Integration_ko.chm"
+                },
+                {
+                    "displayName": "Unreal Integration Documentation (CHM/Simplified Chinese)",
+                    "path": "\\Wwise\\Wwise_UE4_Integration_zh.chm"
+                }
+            ],
+            "groups": [
+                {
+                    "groupId": "Packages",
+                    "groupValueId": "Unreal"
+                }
+            ],
+            "id": "UnrealDocumentation.tar.xz",
+            "licenses": [],
+            "name": "UnrealDocumentation.tar.xz",
+            "sha1": "dea4afd829c9e8aebb05fee5d411558b6a8f5e99",
+            "size": 80491120,
+            "sourceName": "UnrealDocumentation.tar.xz",
+            "uncompressedSize": 80590336,
+            "url": "https://blob-api-builds.gowwise.com/UE4_2021.1.5.7749.2171/UnrealDocumentation.tar.xz?Expires=1638571206&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ibG9iLWFwaS1idWlsZHMuZ293d2lzZS5jb20vVUU0XzIwMjEuMS41Ljc3NDkuMjE3MS9VbnJlYWxEb2N1bWVudGF0aW9uLnRhci54eiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYzODU3MTIwNn19fV19&Signature=vYo283~p4jIjFrXB45vuuD32dop0TW-GRRh5w68MaFMTBiPIIbBWSvjFATCEIk~neW~NC~Y48DQW3vyCUzq2ETN~vz9xE6aPJ1wAgt42e6wBZzR5-rAyFBMl~h6VUU4cVJRd4YyIYloXljYx2FB5LnfvZsrkySj8d1QWPGyGUqQg-eGCc2xiQAiHJNrr7Iqg0SGjdQrNmbz1ZAlKJhouvEVpQXYJfYjRSUNQx6sViWh8dAgxhrEkGGkc1zWlqwyzfxzuPdwUnYV9OhFoeFAflfzZnRSLKLBpoBdwl6~8znrv8tG1JNRcNurCvf4CLcEsKoC66Ex4jsi52TcUdrLJqg__&Key-Pair-Id=K2C8231G2H0728"
+        },
+        {
+            "documentationFiles": [],
+            "groups": [
+                {
+                    "groupId": "Packages",
+                    "groupValueId": "UnrealDemoGame"
+                },
+                {
+                    "groupId": "DeploymentPlatforms",
+                    "groupValueId": "UE427"
+                }
+            ],
+            "id": "UnrealDemoGame.4.27.tar.xz",
+            "licenses": [],
+            "name": "UnrealDemoGame.4.27.tar.xz",
+            "sha1": "dbd7402cdc237bc451b319cee1bbf5330d9bb706",
+            "size": 235841108,
+            "sourceName": "UnrealDemoGame.4.27.tar.xz",
+            "uncompressedSize": 571856896,
+            "url": "https://blob-api-builds.gowwise.com/UE4_2021.1.5.7749.2171/UnrealDemoGame.4.27.tar.xz?Expires=1638571206&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ibG9iLWFwaS1idWlsZHMuZ293d2lzZS5jb20vVUU0XzIwMjEuMS41Ljc3NDkuMjE3MS9VbnJlYWxEZW1vR2FtZS40LjI3LnRhci54eiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYzODU3MTIwNn19fV19&Signature=rk9ncP1GdECrTeQz5EMG7kfXH69k9YCjUBbgt-rVlEktFoA3C4IiSPay4pomn9gp8eXOgBfIoJJJSY3eE0HbA~9EeYNymQy31Gv4B-mQ1vWS2tJ6N8Wc-VLffPnAj~IJxhcUHipl2xcv98epZF8ZAxQRDW-VJ3uXXRauYHMksxoAc6RTwRhJ4rYEWizA18udNnMdo-sG5JtHVPrMKyfQWCflECft19Y5SNzuVnNwtoYzB~HJEHDcP-Cu5SQm4YpikxLJKBP1Fl9KS2xtAc6a5EAE7IZenz67MhygWSbDCVKieqDV2ovqnSxOs4mSYfVp-eVDcLR-2ogHTdhxdT3rOQ__&Key-Pair-Id=K2C8231G2H0728"
+        },
+        {
+            "documentationFiles": [
+                {
+                    "displayName": "Unreal Integration Documentation (CHM/English)",
+                    "path": "\\WwiseDemoGame\\Wwise_UE4_Integration.chm"
+                },
+                {
+                    "displayName": "Unreal Integration Documentation (CHM/Japanese)",
+                    "path": "\\WwiseDemoGame\\Wwise_UE4_Integration_ja.chm"
+                },
+                {
+                    "displayName": "Unreal Integration Documentation (CHM/Korean)",
+                    "path": "\\WwiseDemoGame\\Wwise_UE4_Integration_ko.chm"
+                },
+                {
+                    "displayName": "Unreal Integration Documentation (CHM/Simplified Chinese)",
+                    "path": "\\WwiseDemoGame\\Wwise_UE4_Integration_zh.chm"
+                }
+            ],
+            "groups": [
+                {
+                    "groupId": "Packages",
+                    "groupValueId": "UnrealDemoGame"
+                }
+            ],
+            "id": "UnrealDemoGameDocumentation.tar.xz",
+            "licenses": [],
+            "name": "UnrealDemoGameDocumentation.tar.xz",
+            "sha1": "0e43dbf4c19246d62ebb2d38217978f2c1d7c85f",
+            "size": 80491156,
+            "sourceName": "UnrealDemoGameDocumentation.tar.xz",
+            "uncompressedSize": 80590336,
+            "url": "https://blob-api-builds.gowwise.com/UE4_2021.1.5.7749.2171/UnrealDemoGameDocumentation.tar.xz?Expires=1638571206&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9ibG9iLWFwaS1idWlsZHMuZ293d2lzZS5jb20vVUU0XzIwMjEuMS41Ljc3NDkuMjE3MS9VbnJlYWxEZW1vR2FtZURvY3VtZW50YXRpb24udGFyLnh6IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjM4NTcxMjA2fX19XX0_&Signature=ks~ssh~tNf13Ho1R21Ld8h9-vR82VcyWJxC-x4kFr-s24klsAV8ZKYdlOI-EMOOHE94cDX7PmUFnoUte-qUVJkOPQ9WZ2tPFODEKjldz-KL3-oEcMxvnOtEdPcFoDA-ptMRrMKRnGJbmy01qYzox3fUqck~1fRn9iu4t3rp5Az910SzV~WLj6rLnt~ZcUiyD4WuHz2ZTnTY0pcvilvZ155XodbIfNAe2~EgmjWEDcA36H9StsrAAjt2O4Y6r5SyUAb6fQa2Z7RO3eGMclaYevmz4s65jVK~aYnKJKpGY-bfjDbM6JKGJhcvh9SxdBKk10ySFwidaijcivWzWfQZk8g__&Key-Pair-Id=K2C8231G2H0728"
+        }
+    ],
+    "groups": [
+        {
+            "displayName": "Packages",
+            "id": "Packages",
+            "values": [
+                {
+                    "$checked": true,
+                    "$disabled": true,
+                    "$visible": true,
+                    "description": "Unreal Integration of Wwise",
+                    "displayName": "Unreal Integration",
+                    "eulaIds": [
+                        "Ogg",
+                        "Wwise",
+                        "Auro",
+                        "Crankcase",
+                        "iZotope",
+                        "McDSP"
+                    ],
+                    "id": "Unreal",
+                    "license": {
+                        "platform": "Windows"
+                    }
+                },
+                {
+                    "$checked": true,
+                    "$disabled": true,
+                    "$visible": true,
+                    "description": "Unreal Integration of Wwise for Stadia",
+                    "displayName": "Unreal Integration for Stadia",
+                    "eulaIds": [],
+                    "id": "UnrealStadia",
+                    "license": {
+                        "platform": "Stadia"
+                    }
+                },
+                {
+                    "$checked": true,
+                    "$disabled": true,
+                    "$visible": true,
+                    "description": "Unreal Integration of Wwise for PS5",
+                    "displayName": "Unreal Integration for PS5",
+                    "eulaIds": [],
+                    "id": "UnrealPS5",
+                    "license": {
+                        "platform": "PS5"
+                    }
+                },
+                {
+                    "$checked": true,
+                    "$disabled": true,
+                    "$visible": true,
+                    "description": "Unreal Integration of Wwise for Xbox Series X",
+                    "displayName": "Unreal Integration for Xbox Series X",
+                    "eulaIds": [],
+                    "id": "UnrealXboxSeriesX",
+                    "license": {
+                        "platform": "XboxSeriesX"
+                    }
+                },
+                {
+                    "$checked": true,
+                    "$disabled": true,
+                    "$visible": true,
+                    "description": "Unreal Integration of Wwise for Xbox One (Game Core)",
+                    "displayName": "Unreal Integration for Xbox One (Game Core)",
+                    "eulaIds": [],
+                    "id": "UnrealXboxOneGC",
+                    "license": {
+                        "platform": "XboxOne"
+                    }
+                },
+                {
+                    "$checked": true,
+                    "$disabled": true,
+                    "$visible": true,
+                    "description": "Unreal Integration of Wwise for Windows (Game Core)",
+                    "displayName": "Unreal Integration for Windows (Game Core)",
+                    "eulaIds": [],
+                    "id": "UnrealWinGC",
+                    "license": {
+                        "platform": "XboxOne"
+                    }
+                },
+                {
+                    "$checked": false,
+                    "$disabled": true,
+                    "$visible": false,
+                    "description": "Game Scene for the Unreal Integration",
+                    "displayName": "Unreal Integration Game Scene",
+                    "eulaIds": [
+                        "Ogg",
+                        "Wwise",
+                        "Auro",
+                        "Crankcase",
+                        "iZotope",
+                        "McDSP"
+                    ],
+                    "id": "UnrealDemoGame",
+                    "license": {
+                        "platform": "Windows"
+                    }
+                }
+            ]
+        },
+        {
+            "displayName": "Deployment Platforms",
+            "id": "DeploymentPlatforms",
+            "values": [
+                {
+                    "displayName": "Unreal Engine 4.25",
+                    "eulaIds": [],
+                    "id": "UE425",
+                    "$disabled": true,
+                    "$message": "No files available"
+                },
+                {
+                    "displayName": "Unreal Engine 4.26",
+                    "eulaIds": [],
+                    "id": "UE426",
+                    "$disabled": false
+                },
+                {
+                    "displayName": "Unreal Engine 4.27",
+                    "eulaIds": [],
+                    "id": "UE427",
+                    "$disabled": false
+                }
+            ]
+        }
+    ],
+    "id": "unrealintegration.2021_1_5_2171",
+    "labels": [],
+    "launcher": {
+        "minimumRequiredVersion": {
+            "major": 2,
+            "minor": 0,
+            "year": 2020
+        }
+    },
+    "links": [],
+    "name": "Unreal integration",
+    "productDependentData": {
+        "platformFolders": {
+            "mandatory": [
+                "include",
+                "Win32_vc150",
+                "x64_vc150",
+                "Win32_vc160",
+                "x64_vc160",
+                "Mac"
+            ],
+            "optional": [
+                "Win32_vc140",
+                "x64_vc140",
+                "WinGC_vc150",
+                "WinGC_vc160",
+                "UWP_ARM64_vc150",
+                "UWP_ARM64_vc160",
+                "Linux_x32",
+                "Linux_x64",
+                "XboxOne_vc140",
+                "XboxOne_vc150",
+                "XboxOne_vc160",
+                "XboxOneGC_vc150",
+                "XboxOneGC_vc160",
+                "PS4",
+                "NX64",
+                "GGP",
+                "Android_armeabi-v7a",
+                "Android_x86",
+                "Android_arm64-v8a",
+                "Android_x86_64",
+                "iOS",
+                "tvOS",
+                "PS5",
+                "XboxSeriesX_vc150",
+                "XboxSeriesX_vc160"
+            ]
+        },
+        "supportedPlatforms": [
+            "Windows",
+            "Mac",
+            "Linux",
+            "XboxOne",
+            "PS4",
+            "Stadia",
+            "Switch",
+            "Android",
+            "iOS",
+            "tvOS",
+            "PS5",
+            "UWP"
+        ],
+        "supportedUnrealVersions": [
+            {
+                "major": 4,
+                "minor": 25
+            },
+            {
+                "major": 4,
+                "minor": 26
+            },
+            {
+                "major": 4,
+                "minor": 27
+            }
+        ],
+        "wwiseSdkBuild": 7749
+    },
+    "tag": "ue4",
+    "type": "UnrealIntegration",
+    "vendor": "Audiokinetic",
+    "version": {
+        "build": 2171,
+        "major": 1,
+        "minor": 5,
+        "nickname": "",
+        "year": 2021
+    },
+    "$sortGroupIndex": 2,
+    "displayName": "Unreal integration 2021.1.5.2171",
+    "children": []
+}

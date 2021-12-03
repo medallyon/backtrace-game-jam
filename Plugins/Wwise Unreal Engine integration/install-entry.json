@@ -1,0 +1,146 @@
+{
+    "targetDir": "/Users/willbiechoo/Documents/Wwise Unreal Engine integration",
+    "bundle": {
+        "id": "unrealintegration.2021_1_5_2171",
+        "type": "UnrealIntegration",
+        "name": "Unreal integration",
+        "vendor": "Audiokinetic",
+        "version": {
+            "build": 2171,
+            "major": 1,
+            "minor": 5,
+            "nickname": "",
+            "year": 2021
+        },
+        "labels": [],
+        "links": [],
+        "productDependentData": {
+            "platformFolders": {
+                "mandatory": [
+                    "include",
+                    "Win32_vc150",
+                    "x64_vc150",
+                    "Win32_vc160",
+                    "x64_vc160",
+                    "Mac"
+                ],
+                "optional": [
+                    "Win32_vc140",
+                    "x64_vc140",
+                    "WinGC_vc150",
+                    "WinGC_vc160",
+                    "UWP_ARM64_vc150",
+                    "UWP_ARM64_vc160",
+                    "Linux_x32",
+                    "Linux_x64",
+                    "XboxOne_vc140",
+                    "XboxOne_vc150",
+                    "XboxOne_vc160",
+                    "XboxOneGC_vc150",
+                    "XboxOneGC_vc160",
+                    "PS4",
+                    "NX64",
+                    "GGP",
+                    "Android_armeabi-v7a",
+                    "Android_x86",
+                    "Android_arm64-v8a",
+                    "Android_x86_64",
+                    "iOS",
+                    "tvOS",
+                    "PS5",
+                    "XboxSeriesX_vc150",
+                    "XboxSeriesX_vc160"
+                ]
+            },
+            "supportedPlatforms": [
+                "Windows",
+                "Mac",
+                "Linux",
+                "XboxOne",
+                "PS4",
+                "Stadia",
+                "Switch",
+                "Android",
+                "iOS",
+                "tvOS",
+                "PS5",
+                "UWP"
+            ],
+            "supportedUnrealVersions": [
+                {
+                    "major": 4,
+                    "minor": 25
+                },
+                {
+                    "major": 4,
+                    "minor": 26
+                },
+                {
+                    "major": 4,
+                    "minor": 27
+                }
+            ],
+            "wwiseSdkBuild": 7749
+        },
+        "displayName": "Unreal integration 2021.1.5.2171",
+        "image": "",
+        "redistributables": [],
+        "eulas": [],
+        "groups": [],
+        "groupsById": {},
+        "files": [],
+        "filesById": {},
+        "children": [],
+        "childrenById": {}
+    },
+    "installed": {
+        "groups": [
+            {
+                "id": "Packages",
+                "valueId": "Unreal"
+            },
+            {
+                "id": "Packages",
+                "valueId": "UnrealStadia"
+            },
+            {
+                "id": "Packages",
+                "valueId": "UnrealPS5"
+            },
+            {
+                "id": "Packages",
+                "valueId": "UnrealXboxSeriesX"
+            },
+            {
+                "id": "Packages",
+                "valueId": "UnrealXboxOneGC"
+            },
+            {
+                "id": "Packages",
+                "valueId": "UnrealWinGC"
+            },
+            {
+                "id": "DeploymentPlatforms",
+                "valueId": "UE425"
+            },
+            {
+                "id": "DeploymentPlatforms",
+                "valueId": "UE426"
+            },
+            {
+                "id": "DeploymentPlatforms",
+                "valueId": "UE427"
+            }
+        ],
+        "files": [
+            "Unreal.4.26.tar.xz",
+            "Unreal.4.27.tar.xz",
+            "UnrealDocumentation.tar.xz"
+        ],
+        "date": 1638556887709
+    },
+    "sampleFiles": [],
+    "entryState": 0,
+    "children": [],
+    "unpackedFiles": []
+}
