@@ -1,25 +1,100 @@
 <?xml version="1.0" encoding="utf-8"?>
 <SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="12" SoundbankVersion="140">
 	<RootPaths>
-		<ProjectRoot>/Users/willbiechoo/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/z:/Volumes/Samsung_T5/GitHub/backtrace-game-jam/TestWwise_WwiseProject/</ProjectRoot>
-		<SourceFilesRoot>/Users/willbiechoo/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/z:/Volumes/Samsung_T5/GitHub/backtrace-game-jam/TestWwise_WwiseProject/.cache/Mac/</SourceFilesRoot>
-		<SoundBanksRoot>/Users/willbiechoo/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/z:/Volumes/Samsung_T5/GitHub/backtrace-game-jam/TestWwise_WwiseProject/GeneratedSoundBanks/Mac/</SoundBanksRoot>
+		<ProjectRoot>/Users/willbiechoo/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/Documents/GitHub/backtrace-game-jam/TestWwise_WwiseProject/</ProjectRoot>
+		<SourceFilesRoot>/Users/willbiechoo/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/Documents/GitHub/backtrace-game-jam/TestWwise_WwiseProject/.cache/Mac/</SourceFilesRoot>
+		<SoundBanksRoot>/Users/willbiechoo/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/Documents/GitHub/backtrace-game-jam/TestWwise_WwiseProject/GeneratedSoundBanks/Mac/</SoundBanksRoot>
 		<ExternalSourcesInputFile></ExternalSourcesInputFile>
-		<ExternalSourcesOutputRoot>/Users/willbiechoo/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/z:/Volumes/Samsung_T5/GitHub/backtrace-game-jam/TestWwise_WwiseProject/GeneratedSoundBanks/Mac</ExternalSourcesOutputRoot>
+		<ExternalSourcesOutputRoot>/Users/willbiechoo/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/Documents/GitHub/backtrace-game-jam/TestWwise_WwiseProject/GeneratedSoundBanks/Mac</ExternalSourcesOutputRoot>
 	</RootPaths>
 	<SoundBanks>
-		<SoundBank Id="3161908922" GUID="{B2899488-88F5-40EF-AA84-425F182C44EF}" Language="SFX" Hash="81459569">
+		<SoundBank Id="3161908922" GUID="{B2899488-88F5-40EF-AA84-425F182C44EF}" Language="SFX" Hash="1623632348">
 			<ObjectPath>\SoundBanks\Default Work Unit\Main</ObjectPath>
 			<ShortName>Main</ShortName>
 			<Path>Main.bnk</Path>
 			<IncludedEvents>
-				<Event Id="2385628198" Name="footsteps" ObjectPath="\Events\Default Work Unit\footsteps" GUID="{F50CFCE8-F383-42C9-B8FA-DDDB4D358FF5}" DurationType="OneShot" DurationMin="0.360208" DurationMax="0.360208">
+				<Event Id="2385628198" Name="footsteps" ObjectPath="\Events\Default Work Unit\footsteps" GUID="{F50CFCE8-F383-42C9-B8FA-DDDB4D358FF5}" DurationType="OneShot" DurationMin="0.156254" DurationMax="0.533417">
 					<IncludedMemoryFiles>
-						<File Id="452156731" Language="SFX">
-							<ShortName>Footsteps, Human, Rock, Walk SND62096 5.wav</ShortName>
-							<Path>SFX/Footsteps, Human, Rock, Walk SND62096 5_10C4C929.wem</Path>
+						<File Id="52981142" Language="SFX">
+							<ShortName>player_footsteps_wood_03.wav</ShortName>
+							<Path>SFX/player_footsteps_wood_03_10C4C929.wem</Path>
+						</File>
+						<File Id="138700919" Language="SFX">
+							<ShortName>player_footsteps_wood_02.wav</ShortName>
+							<Path>SFX/player_footsteps_wood_02_10C4C929.wem</Path>
+						</File>
+						<File Id="304800905" Language="SFX">
+							<ShortName>player_footsteps_dirt_01.wav</ShortName>
+							<Path>SFX/player_footsteps_dirt_01_10C4C929.wem</Path>
+						</File>
+						<File Id="412700002" Language="SFX">
+							<ShortName>player_footsteps_concrete_01.wav</ShortName>
+							<Path>SFX/player_footsteps_concrete_01_10C4C929.wem</Path>
+						</File>
+						<File Id="424074853" Language="SFX">
+							<ShortName>player_footsteps_concrete_03.wav</ShortName>
+							<Path>SFX/player_footsteps_concrete_03_10C4C929.wem</Path>
+						</File>
+						<File Id="476317037" Language="SFX">
+							<ShortName>player_footsteps_grass_03.wav</ShortName>
+							<Path>SFX/player_footsteps_grass_03_10C4C929.wem</Path>
+						</File>
+						<File Id="525694834" Language="SFX">
+							<ShortName>player_footsteps_dirt_02.wav</ShortName>
+							<Path>SFX/player_footsteps_dirt_02_10C4C929.wem</Path>
+						</File>
+						<File Id="640685255" Language="SFX">
+							<ShortName>player_footsteps_grass_02.wav</ShortName>
+							<Path>SFX/player_footsteps_grass_02_10C4C929.wem</Path>
+						</File>
+						<File Id="652853125" Language="SFX">
+							<ShortName>player_footsteps_dirt_03.wav</ShortName>
+							<Path>SFX/player_footsteps_dirt_03_10C4C929.wem</Path>
+						</File>
+						<File Id="687332179" Language="SFX">
+							<ShortName>player_footsteps_grass_01.wav</ShortName>
+							<Path>SFX/player_footsteps_grass_01_10C4C929.wem</Path>
+						</File>
+						<File Id="701220376" Language="SFX">
+							<ShortName>player_footsteps_concrete_02.wav</ShortName>
+							<Path>SFX/player_footsteps_concrete_02_10C4C929.wem</Path>
+						</File>
+						<File Id="725827829" Language="SFX">
+							<ShortName>player_footsteps_wood_01.wav</ShortName>
+							<Path>SFX/player_footsteps_wood_01_10C4C929.wem</Path>
 						</File>
 					</IncludedMemoryFiles>
+					<DefaultSwitchValue>{1B0701C4-AB9B-4A6E-A66C-B4834A7000C6}</DefaultSwitchValue>
+					<SwitchContainers>
+						<SwitchContainer SwitchValue="{5CF31A40-E08C-4B54-B527-73507659C1ED}">
+							<Media>
+								<File Id="52981142"/>
+								<File Id="138700919"/>
+								<File Id="725827829"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{56DE9F48-EA40-4822-9110-419A5235520D}">
+							<Media>
+								<File Id="476317037"/>
+								<File Id="640685255"/>
+								<File Id="687332179"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{1B0701C4-AB9B-4A6E-A66C-B4834A7000C6}">
+							<Media>
+								<File Id="412700002"/>
+								<File Id="424074853"/>
+								<File Id="701220376"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{FE95EEFE-9D18-4914-B164-95ACDB8175C4}">
+							<Media>
+								<File Id="304800905"/>
+								<File Id="525694834"/>
+								<File Id="652853125"/>
+							</Media>
+						</SwitchContainer>
+					</SwitchContainers>
 				</Event>
 				<Event Id="3157003241" Name="Test" ObjectPath="\Events\Default Work Unit\Test" GUID="{D4ACB12E-6CD3-405A-BB0F-1E174184C4EF}" DurationType="OneShot" DurationMin="0.892927" DurationMax="0.892927">
 					<IncludedMemoryFiles>
@@ -30,6 +105,19 @@
 					</IncludedMemoryFiles>
 				</Event>
 			</IncludedEvents>
+			<GameParameters>
+				<GameParameter Id="444815956" Name="PlayerLife" ObjectPath="\Game Parameters\Default Work Unit\PlayerLife" GUID="{AF206263-A8FF-4C3B-8B86-11F875F2B05C}"/>
+			</GameParameters>
+			<SwitchGroups>
+				<SwitchGroup Id="3865314626" Name="Material" ObjectPath="\Switches\Default Work Unit\Material" GUID="{1E339167-70DE-438D-AADE-2EF4600C1A09}">
+					<Switches>
+						<Switch Id="841620460" Name="Concrete" ObjectPath="\Switches\Default Work Unit\Material\Concrete" GUID="{1B0701C4-AB9B-4A6E-A66C-B4834A7000C6}"/>
+						<Switch Id="2195636714" Name="Dirt" ObjectPath="\Switches\Default Work Unit\Material\Dirt" GUID="{FE95EEFE-9D18-4914-B164-95ACDB8175C4}"/>
+						<Switch Id="4248645337" Name="Grass" ObjectPath="\Switches\Default Work Unit\Material\Grass" GUID="{56DE9F48-EA40-4822-9110-419A5235520D}"/>
+						<Switch Id="2058049674" Name="Wood" ObjectPath="\Switches\Default Work Unit\Material\Wood" GUID="{5CF31A40-E08C-4B54-B527-73507659C1ED}"/>
+					</Switches>
+				</SwitchGroup>
+			</SwitchGroups>
 		</SoundBank>
 	</SoundBanks>
 </SoundBanksInfo>

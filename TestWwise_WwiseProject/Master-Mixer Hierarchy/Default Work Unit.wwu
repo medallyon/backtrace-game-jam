@@ -9,6 +9,24 @@
 							<ObjectRef Name="System" ID="{6C1D2CF6-5F61-4B0D-881D-51B298EF03A9}" WorkUnitID="{B782A582-FDFC-41E0-91DE-528954213F0A}"/>
 						</Reference>
 					</ReferenceList>
+					<ChildrenList>
+						<Bus Name="SFX" ID="{82C6DE24-3727-4B85-A156-6E16C751B844}">
+							<ChildrenList>
+								<AuxBus Name="mediumroom_rev" ID="{36162A4E-19ED-4CE2-AAF7-1ED884CC440D}">
+									<PropertyList>
+										<Property Name="UseGameAuxSends" Type="bool" Value="True"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Effect0" PluginName="Wwise RoomVerb" CompanyID="0" PluginID="118" PluginType="3">
+											<ObjectRef Name="Room_Small" ID="{577F1466-A63B-47F7-98BD-C56E433F8B5D}" WorkUnitID="{E8613F7D-BAD3-45CD-A3ED-505576F31277}"/>
+										</Reference>
+									</ReferenceList>
+									<ObjectLists/>
+								</AuxBus>
+							</ChildrenList>
+							<ObjectLists/>
+						</Bus>
+					</ChildrenList>
 					<ObjectLists/>
 				</Bus>
 			</ChildrenList>

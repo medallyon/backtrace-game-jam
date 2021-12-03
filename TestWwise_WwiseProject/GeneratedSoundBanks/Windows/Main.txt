@@ -2,7 +2,30 @@ Event	ID	Name			Wwise Object Path	Notes
 	2385628198	footsteps			\Default Work Unit\footsteps	
 	3157003241	Test			\Default Work Unit\Test	
 
+Switch Group	ID	Name			Wwise Object Path	Notes
+	3865314626	Material			\Default Work Unit\Material	
+
+Switch	ID	Name	Switch Group			Notes
+	841620460	Concrete	Material			
+	2058049674	Wood	Material			
+	2195636714	Dirt	Material			
+	4248645337	Grass	Material			
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	444815956	PlayerLife			\Default Work Unit\PlayerLife	
+
 In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
-	452156731	player_footsteps_concrete_01	Z:\Volumes\Samsung_T5\GitHub\backtrace-game-jam\TestWwise_WwiseProject\.cache\Windows\SFX\Footsteps, Human, Rock, Walk SND62096 5_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\player_footsteps_concrete_01		34644
-	877233872	Test	Z:\Volumes\Samsung_T5\GitHub\backtrace-game-jam\TestWwise_WwiseProject\.cache\Windows\SFX\Cartoon, Misc, Cartoon Character, High Pitched Laughter, Hysterical, Funny, Male 2 SND15255 2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Test		171504
+	52981142	player_footsteps_wood_03	Y:\Documents\GitHub\backtrace-game-jam\TestWwise_WwiseProject\.cache\Windows\SFX\player_footsteps_wood_03_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\footsteps\Wood\player_footsteps_wood_03		67764
+	138700919	player_footsteps_wood_02	Y:\Documents\GitHub\backtrace-game-jam\TestWwise_WwiseProject\.cache\Windows\SFX\player_footsteps_wood_02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\footsteps\Wood\player_footsteps_wood_02		67764
+	304800905	player_footsteps_dirt_01	Y:\Documents\GitHub\backtrace-game-jam\TestWwise_WwiseProject\.cache\Windows\SFX\player_footsteps_dirt_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\footsteps\Dirt\player_footsteps_dirt_01		17690
+	412700002	player_footsteps_concrete_01	Y:\Documents\GitHub\backtrace-game-jam\TestWwise_WwiseProject\.cache\Windows\SFX\player_footsteps_concrete_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\footsteps\Concrete\player_footsteps_concrete_01		74140
+	424074853	player_footsteps_concrete_03	Y:\Documents\GitHub\backtrace-game-jam\TestWwise_WwiseProject\.cache\Windows\SFX\player_footsteps_concrete_03_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\footsteps\Concrete\player_footsteps_concrete_03		69968
+	476317037	player_footsteps_grass_03	Y:\Documents\GitHub\backtrace-game-jam\TestWwise_WwiseProject\.cache\Windows\SFX\player_footsteps_grass_03_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\footsteps\Grass\player_footsteps_grass_03		37630
+	525694834	player_footsteps_dirt_02	Y:\Documents\GitHub\backtrace-game-jam\TestWwise_WwiseProject\.cache\Windows\SFX\player_footsteps_dirt_02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\footsteps\Dirt\player_footsteps_dirt_02		22528
+	640685255	player_footsteps_grass_02	Y:\Documents\GitHub\backtrace-game-jam\TestWwise_WwiseProject\.cache\Windows\SFX\player_footsteps_grass_02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\footsteps\Grass\player_footsteps_grass_02		47022
+	652853125	player_footsteps_dirt_03	Y:\Documents\GitHub\backtrace-game-jam\TestWwise_WwiseProject\.cache\Windows\SFX\player_footsteps_dirt_03_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\footsteps\Dirt\player_footsteps_dirt_03		16422
+	687332179	player_footsteps_grass_01	Y:\Documents\GitHub\backtrace-game-jam\TestWwise_WwiseProject\.cache\Windows\SFX\player_footsteps_grass_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\footsteps\Grass\player_footsteps_grass_01		38326
+	701220376	player_footsteps_concrete_02	Y:\Documents\GitHub\backtrace-game-jam\TestWwise_WwiseProject\.cache\Windows\SFX\player_footsteps_concrete_02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\footsteps\Concrete\player_footsteps_concrete_02		67672
+	725827829	player_footsteps_wood_01	Y:\Documents\GitHub\backtrace-game-jam\TestWwise_WwiseProject\.cache\Windows\SFX\player_footsteps_wood_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\footsteps\Wood\player_footsteps_wood_01		67764
+	877233872	Test	Y:\Documents\GitHub\backtrace-game-jam\TestWwise_WwiseProject\.cache\Windows\SFX\Cartoon, Misc, Cartoon Character, High Pitched Laughter, Hysterical, Funny, Male 2 SND15255 2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Test		171504
 

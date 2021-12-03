@@ -19,7 +19,7 @@
 						<Action Name="" ID="{E853F2A8-01AB-457B-9964-5D6CC52C13C0}" ShortID="707231740">
 							<ReferenceList>
 								<Reference Name="Target">
-									<ObjectRef Name="player_footsteps_concrete_01" ID="{88ED2680-D9AF-450F-9894-24FA23D83CD9}" WorkUnitID="{DB79015E-462A-41A4-A317-927CF09E12D4}"/>
+									<ObjectRef Name="footsteps" ID="{06346D47-891A-405A-89C5-7B6A2B58A553}" WorkUnitID="{DB79015E-462A-41A4-A317-927CF09E12D4}"/>
 								</Reference>
 							</ReferenceList>
 						</Action>
