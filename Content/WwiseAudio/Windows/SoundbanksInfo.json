@@ -5,11 +5,11 @@
   "SchemaVersion": "12",
   "SoundbankVersion": "140",
   "RootPaths": {
-   "ProjectRoot": "/Users/willbiechoo/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/Documents/GitHub/wwise-test/TestWwise_WwiseProject/",
-   "SourceFilesRoot": "/Users/willbiechoo/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/Documents/GitHub/wwise-test/TestWwise_WwiseProject/.cache/Windows/",
-   "SoundBanksRoot": "/Users/willbiechoo/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/Documents/GitHub/wwise-test/Content/WwiseAudio/Windows/",
+   "ProjectRoot": "D:\\Projects\\Unreal\\TestWwise\\TestWwise_WwiseProject\\",
+   "SourceFilesRoot": "D:\\Projects\\Unreal\\TestWwise\\TestWwise_WwiseProject\\.cache\\Windows\\",
+   "SoundBanksRoot": "D:\\Projects\\Unreal\\TestWwise\\Content\\WwiseAudio\\Windows\\",
    "ExternalSourcesInputFile": "",
-   "ExternalSourcesOutputRoot": "/Users/willbiechoo/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/Documents/GitHub/wwise-test/TestWwise_WwiseProject/GeneratedSoundBanks/Windows"
+   "ExternalSourcesOutputRoot": "D:\\Projects\\Unreal\\TestWwise\\TestWwise_WwiseProject\\GeneratedSoundBanks\\Windows"
   },
   "DialogueEvents": [],
   "StreamedFiles": [],
@@ -28,7 +28,7 @@
     "Id": "3161908922",
     "GUID": "{B2899488-88F5-40EF-AA84-425F182C44EF}",
     "Language": "SFX",
-    "Hash": "836190839",
+    "Hash": "993911156",
     "ObjectPath": "\\SoundBanks\\Default Work Unit\\Main",
     "ShortName": "Main",
     "Path": "Main.bnk",
@@ -46,7 +46,7 @@
         "Id": "877233872",
         "Language": "SFX",
         "ShortName": "Cartoon, Misc, Cartoon Character, High Pitched Laughter, Hysterical, Funny, Male 2 SND15255 2.wav",
-        "Path": "SFX/Cartoon, Misc, Cartoon Character, High Pitched Laughter, Hysterical, Funny, Male 2 SND15255 2_10C4C929.wem"
+        "Path": "SFX\\Cartoon, Misc, Cartoon Character, High Pitched Laughter, Hysterical, Funny, Male 2 SND15255 2_10C4C929.wem"
        }
       ]
      }

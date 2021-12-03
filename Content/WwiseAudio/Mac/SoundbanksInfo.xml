@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="12" SoundbankVersion="140">
 	<RootPaths>
-		<ProjectRoot>/Users/willbiechoo/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/Documents/GitHub/wwise-test/TestWwise_WwiseProject/</ProjectRoot>
-		<SourceFilesRoot>/Users/willbiechoo/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/Documents/GitHub/wwise-test/TestWwise_WwiseProject/.cache/Mac/</SourceFilesRoot>
-		<SoundBanksRoot>/Users/willbiechoo/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/Documents/GitHub/wwise-test/Content/WwiseAudio/Mac/</SoundBanksRoot>
+		<ProjectRoot>D:\Projects\Unreal\TestWwise\TestWwise_WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>D:\Projects\Unreal\TestWwise\TestWwise_WwiseProject\.cache\Mac\</SourceFilesRoot>
+		<SoundBanksRoot>D:\Projects\Unreal\TestWwise\Content\WwiseAudio\Mac\</SoundBanksRoot>
 		<ExternalSourcesInputFile></ExternalSourcesInputFile>
-		<ExternalSourcesOutputRoot>/Users/willbiechoo/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/Documents/GitHub/wwise-test/TestWwise_WwiseProject/GeneratedSoundBanks/Mac</ExternalSourcesOutputRoot>
+		<ExternalSourcesOutputRoot>D:\Projects\Unreal\TestWwise\TestWwise_WwiseProject\GeneratedSoundBanks\Mac</ExternalSourcesOutputRoot>
 	</RootPaths>
 	<DialogueEvents/>
 	<StreamedFiles/>
@@ -16,7 +16,7 @@
 			<ShortName>Init</ShortName>
 			<Path>Init.bnk</Path>
 		</SoundBank>
-		<SoundBank Id="3161908922" GUID="{B2899488-88F5-40EF-AA84-425F182C44EF}" Language="SFX" Hash="836190839">
+		<SoundBank Id="3161908922" GUID="{B2899488-88F5-40EF-AA84-425F182C44EF}" Language="SFX" Hash="993911156">
 			<ObjectPath>\SoundBanks\Default Work Unit\Main</ObjectPath>
 			<ShortName>Main</ShortName>
 			<Path>Main.bnk</Path>
@@ -25,7 +25,7 @@
 					<IncludedMemoryFiles>
 						<File Id="877233872" Language="SFX">
 							<ShortName>Cartoon, Misc, Cartoon Character, High Pitched Laughter, Hysterical, Funny, Male 2 SND15255 2.wav</ShortName>
-							<Path>SFX/Cartoon, Misc, Cartoon Character, High Pitched Laughter, Hysterical, Funny, Male 2 SND15255 2_10C4C929.wem</Path>
+							<Path>SFX\Cartoon, Misc, Cartoon Character, High Pitched Laughter, Hysterical, Funny, Male 2 SND15255 2_10C4C929.wem</Path>
 						</File>
 					</IncludedMemoryFiles>
 				</Event>

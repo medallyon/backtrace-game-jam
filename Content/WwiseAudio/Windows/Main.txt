@@ -2,5 +2,5 @@ Event	ID	Name			Wwise Object Path	Notes
 	3157003241	Test			\Default Work Unit\Test	
 
 In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
-	877233872	Test	Y:\Documents\GitHub\wwise-test\TestWwise_WwiseProject\.cache\Windows\SFX\Cartoon, Misc, Cartoon Character, High Pitched Laughter, Hysterical, Funny, Male 2 SND15255 2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Test		171504
+	877233872	Test	D:\Projects\Unreal\TestWwise\TestWwise_WwiseProject\.cache\Windows\SFX\Cartoon, Misc, Cartoon Character, High Pitched Laughter, Hysterical, Funny, Male 2 SND15255 2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Test		171504
 
