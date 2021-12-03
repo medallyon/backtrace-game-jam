@@ -1,6 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="WorkUnit" ID="{DB79015E-462A-41A4-A317-927CF09E12D4}" SchemaVersion="103">
 	<AudioObjects>
-		<WorkUnit Name="Default Work Unit" ID="{DB79015E-462A-41A4-A317-927CF09E12D4}" PersistMode="Standalone"/>
+		<WorkUnit Name="Default Work Unit" ID="{DB79015E-462A-41A4-A317-927CF09E12D4}" PersistMode="Standalone">
+			<ChildrenList>
+				<Sound Name="Test" ID="{FD079566-5797-45C8-BEA4-21C9091440E7}" ShortID="91442799">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{1874CEF2-7042-4448-AEF0-A8983661F3F0}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{184D1D93-375A-4A22-9EF3-313BEC52C0A6}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="Cartoon, Misc, Cartoon Character, High Pitched Laughter, Hysterical, Funny, Male 2 SND15255 2" ID="{855F1455-7080-4981-8F60-E5976D8F63B6}">
+							<Language>SFX</Language>
+							<AudioFile>Cartoon, Misc, Cartoon Character, High Pitched Laughter, Hysterical, Funny, Male 2 SND15255 2.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="877233872"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ObjectLists/>
+					<ActiveSourceList>
+						<ActiveSource Name="Cartoon, Misc, Cartoon Character, High Pitched Laughter, Hysterical, Funny, Male 2 SND15255 2" ID="{855F1455-7080-4981-8F60-E5976D8F63B6}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+			</ChildrenList>
+		</WorkUnit>
 	</AudioObjects>
 </WwiseDocument>
