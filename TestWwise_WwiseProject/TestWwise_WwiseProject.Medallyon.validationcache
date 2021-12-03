@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ValidationCache Version="1" SchemaVersion="103">
+	<ValidationCacheItem File="D:\Projects\Unreal\TestWwise\TestWwise_WwiseProject\Virtual Acoustics\Default Work Unit.wwu" DateLow="1638544147" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Projects\Unreal\TestWwise\TestWwise_WwiseProject\Triggers\Default Work Unit.wwu" DateLow="1638544147" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Projects\Unreal\TestWwise\TestWwise_WwiseProject\TestWwise_WwiseProject.wproj" DateLow="1638544146" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Projects\Unreal\TestWwise\TestWwise_WwiseProject\Switches\Default Work Unit.wwu" DateLow="1638544147" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Projects\Unreal\TestWwise\TestWwise_WwiseProject\States\Default Work Unit.wwu" DateLow="1638544147" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Projects\Unreal\TestWwise\TestWwise_WwiseProject\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1638544147" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Projects\Unreal\TestWwise\TestWwise_WwiseProject\SoundBanks\Default Work Unit.wwu" DateLow="1638544147" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Projects\Unreal\TestWwise\TestWwise_WwiseProject\Queries\Factory Queries.wwu" DateLow="1638126272" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Projects\Unreal\TestWwise\TestWwise_WwiseProject\Queries\Default Work Unit.wwu" DateLow="1638544147" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Projects\Unreal\TestWwise\TestWwise_WwiseProject\Presets\Factory Spatial Audio.wwu" DateLow="1638126272" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Projects\Unreal\TestWwise\TestWwise_WwiseProject\Presets\Default Work Unit.wwu" DateLow="1638544147" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Projects\Unreal\TestWwise\TestWwise_WwiseProject\Modulators\Default Work Unit.wwu" DateLow="1638544147" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Projects\Unreal\TestWwise\TestWwise_WwiseProject\Mixing Sessions\Default Work Unit.wwu" DateLow="1638544147" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Projects\Unreal\TestWwise\TestWwise_WwiseProject\Metadata\Default Work Unit.wwu" DateLow="1638544147" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Projects\Unreal\TestWwise\TestWwise_WwiseProject\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1638544147" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Projects\Unreal\TestWwise\TestWwise_WwiseProject\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="1638544147" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Projects\Unreal\TestWwise\TestWwise_WwiseProject\Game Parameters\Default Work Unit.wwu" DateLow="1638544147" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Projects\Unreal\TestWwise\TestWwise_WwiseProject\Events\Default Work Unit.wwu" DateLow="1638544146" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Projects\Unreal\TestWwise\TestWwise_WwiseProject\Effects\Factory Effects.wwu" DateLow="1638126272" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Projects\Unreal\TestWwise\TestWwise_WwiseProject\Effects\Default Work Unit.wwu" DateLow="1638544147" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Projects\Unreal\TestWwise\TestWwise_WwiseProject\Dynamic Dialogue\Default Work Unit.wwu" DateLow="1638544147" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Projects\Unreal\TestWwise\TestWwise_WwiseProject\Conversion Settings\Factory Conversion Settings.wwu" DateLow="1638126272" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Projects\Unreal\TestWwise\TestWwise_WwiseProject\Conversion Settings\Default Work Unit.wwu" DateLow="1638544147" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Projects\Unreal\TestWwise\TestWwise_WwiseProject\Control Surface Sessions\Default Work Unit.wwu" DateLow="1638544147" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Projects\Unreal\TestWwise\TestWwise_WwiseProject\Audio Devices\Default Work Unit.wwu" DateLow="1638544147" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Projects\Unreal\TestWwise\TestWwise_WwiseProject\Attenuations\Default Work Unit.wwu" DateLow="1638544147" DateHigh="0"/>
+	<ValidationCacheItem File="D:\Projects\Unreal\TestWwise\TestWwise_WwiseProject\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1638544146" DateHigh="0"/>
+</ValidationCache>
