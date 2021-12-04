@@ -25,6 +25,39 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<Event Name="pickup_sword" ID="{8AC17457-0499-438B-8294-1E40B2B39A8F}">
+					<ChildrenList>
+						<Action Name="" ID="{2D482DC2-9B96-4A67-A79D-3A043EC1B502}" ShortID="1063066613">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Pickup_Sword" ID="{841B5830-D10A-448D-BC34-CC0EB9DA8CB0}" WorkUnitID="{DB79015E-462A-41A4-A317-927CF09E12D4}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="pickup_bow" ID="{8111AD22-5499-4FF6-8E7E-FE5B12F0FE83}">
+					<ChildrenList>
+						<Action Name="" ID="{A4D80039-BF21-4414-AEE9-A4B04654FD65}" ShortID="507011474">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Pickup_Bow" ID="{B8569CC6-4BF5-4A2D-B8F3-AE4572571954}" WorkUnitID="{DB79015E-462A-41A4-A317-927CF09E12D4}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="pickup_revolver" ID="{B8E5BF5B-6806-4A09-8EB6-947B3A28568D}">
+					<ChildrenList>
+						<Action Name="" ID="{1FE70199-1028-4616-9DB3-82D672465D70}" ShortID="272199869">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Pickup_Revolver" ID="{56F72971-FB8C-40B7-93E7-8827E727E620}" WorkUnitID="{DB79015E-462A-41A4-A317-927CF09E12D4}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>

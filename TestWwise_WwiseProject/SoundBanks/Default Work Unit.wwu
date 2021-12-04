@@ -7,6 +7,9 @@
 					<ObjectInclusionList>
 						<ObjectRef Name="Test" ID="{D4ACB12E-6CD3-405A-BB0F-1E174184C4EF}" WorkUnitID="{3ECFB688-D750-4956-873B-EB49EF32FEEE}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="footsteps" ID="{F50CFCE8-F383-42C9-B8FA-DDDB4D358FF5}" WorkUnitID="{3ECFB688-D750-4956-873B-EB49EF32FEEE}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="pickup_sword" ID="{8AC17457-0499-438B-8294-1E40B2B39A8F}" WorkUnitID="{3ECFB688-D750-4956-873B-EB49EF32FEEE}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="pickup_revolver" ID="{B8E5BF5B-6806-4A09-8EB6-947B3A28568D}" WorkUnitID="{3ECFB688-D750-4956-873B-EB49EF32FEEE}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="pickup_bow" ID="{8111AD22-5499-4FF6-8E7E-FE5B12F0FE83}" WorkUnitID="{3ECFB688-D750-4956-873B-EB49EF32FEEE}" Origin="Manual" Filter="7"/>
 					</ObjectInclusionList>
 					<ObjectExclusionList/>
 					<GameSyncExclusionList/>

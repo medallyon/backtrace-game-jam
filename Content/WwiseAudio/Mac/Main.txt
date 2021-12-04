@@ -1,6 +1,9 @@
 Event	ID	Name			Wwise Object Path	Notes
+	1589366028	pickup_bow			\Default Work Unit\pickup_bow	
 	2385628198	footsteps			\Default Work Unit\footsteps	
+	2436859237	pickup_revolver			\Default Work Unit\pickup_revolver	
 	3157003241	Test			\Default Work Unit\Test	
+	4170103955	pickup_sword			\Default Work Unit\pickup_sword	
 
 Switch Group	ID	Name			Wwise Object Path	Notes
 	3865314626	Material			\Default Work Unit\Material	
@@ -15,17 +18,20 @@ Game Parameter	ID	Name			Wwise Object Path	Notes
 	444815956	PlayerLife			\Default Work Unit\PlayerLife	
 
 In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
-	52981142	player_footsteps_wood_03	Y:\Documents\GitHub\backtrace-game-jam\TestWwise_WwiseProject\.cache\Mac\SFX\player_footsteps_wood_03_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\footsteps\Wood\player_footsteps_wood_03		67764
-	138700919	player_footsteps_wood_02	Y:\Documents\GitHub\backtrace-game-jam\TestWwise_WwiseProject\.cache\Mac\SFX\player_footsteps_wood_02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\footsteps\Wood\player_footsteps_wood_02		67764
-	304800905	player_footsteps_dirt_01	Y:\Documents\GitHub\backtrace-game-jam\TestWwise_WwiseProject\.cache\Mac\SFX\player_footsteps_dirt_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\footsteps\Dirt\player_footsteps_dirt_01		17690
-	412700002	player_footsteps_concrete_01	Y:\Documents\GitHub\backtrace-game-jam\TestWwise_WwiseProject\.cache\Mac\SFX\player_footsteps_concrete_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\footsteps\Concrete\player_footsteps_concrete_01		74140
-	424074853	player_footsteps_concrete_03	Y:\Documents\GitHub\backtrace-game-jam\TestWwise_WwiseProject\.cache\Mac\SFX\player_footsteps_concrete_03_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\footsteps\Concrete\player_footsteps_concrete_03		69968
-	476317037	player_footsteps_grass_03	Y:\Documents\GitHub\backtrace-game-jam\TestWwise_WwiseProject\.cache\Mac\SFX\player_footsteps_grass_03_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\footsteps\Grass\player_footsteps_grass_03		37630
-	525694834	player_footsteps_dirt_02	Y:\Documents\GitHub\backtrace-game-jam\TestWwise_WwiseProject\.cache\Mac\SFX\player_footsteps_dirt_02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\footsteps\Dirt\player_footsteps_dirt_02		22528
-	640685255	player_footsteps_grass_02	Y:\Documents\GitHub\backtrace-game-jam\TestWwise_WwiseProject\.cache\Mac\SFX\player_footsteps_grass_02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\footsteps\Grass\player_footsteps_grass_02		47022
-	652853125	player_footsteps_dirt_03	Y:\Documents\GitHub\backtrace-game-jam\TestWwise_WwiseProject\.cache\Mac\SFX\player_footsteps_dirt_03_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\footsteps\Dirt\player_footsteps_dirt_03		16422
-	687332179	player_footsteps_grass_01	Y:\Documents\GitHub\backtrace-game-jam\TestWwise_WwiseProject\.cache\Mac\SFX\player_footsteps_grass_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\footsteps\Grass\player_footsteps_grass_01		38326
-	701220376	player_footsteps_concrete_02	Y:\Documents\GitHub\backtrace-game-jam\TestWwise_WwiseProject\.cache\Mac\SFX\player_footsteps_concrete_02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\footsteps\Concrete\player_footsteps_concrete_02		67672
-	725827829	player_footsteps_wood_01	Y:\Documents\GitHub\backtrace-game-jam\TestWwise_WwiseProject\.cache\Mac\SFX\player_footsteps_wood_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\footsteps\Wood\player_footsteps_wood_01		67764
+	52981142	player_footsteps_wood_03	Y:\Documents\GitHub\backtrace-game-jam\TestWwise_WwiseProject\.cache\Mac\SFX\player_footsteps_wood_03_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\footsteps\Wood\player_footsteps_wood_03		67764
+	138700919	player_footsteps_wood_02	Y:\Documents\GitHub\backtrace-game-jam\TestWwise_WwiseProject\.cache\Mac\SFX\player_footsteps_wood_02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\footsteps\Wood\player_footsteps_wood_02		67764
+	304800905	player_footsteps_dirt_01	Y:\Documents\GitHub\backtrace-game-jam\TestWwise_WwiseProject\.cache\Mac\SFX\player_footsteps_dirt_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\footsteps\Dirt\player_footsteps_dirt_01		17690
+	407407223	Pickup_Bow	Y:\Documents\GitHub\backtrace-game-jam\TestWwise_WwiseProject\.cache\Mac\SFX\pickup_bow_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Interactable\Weapons\Pickup_Bow		204288
+	412700002	player_footsteps_concrete_01	Y:\Documents\GitHub\backtrace-game-jam\TestWwise_WwiseProject\.cache\Mac\SFX\player_footsteps_concrete_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\footsteps\Concrete\player_footsteps_concrete_01		74140
+	424074853	player_footsteps_concrete_03	Y:\Documents\GitHub\backtrace-game-jam\TestWwise_WwiseProject\.cache\Mac\SFX\player_footsteps_concrete_03_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\footsteps\Concrete\player_footsteps_concrete_03		69968
+	456488536	Pickup_Revolver	Y:\Documents\GitHub\backtrace-game-jam\TestWwise_WwiseProject\.cache\Mac\SFX\pickup_revolver_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Interactable\Weapons\Pickup_Revolver		162576
+	476317037	player_footsteps_grass_03	Y:\Documents\GitHub\backtrace-game-jam\TestWwise_WwiseProject\.cache\Mac\SFX\player_footsteps_grass_03_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\footsteps\Grass\player_footsteps_grass_03		37630
+	525694834	player_footsteps_dirt_02	Y:\Documents\GitHub\backtrace-game-jam\TestWwise_WwiseProject\.cache\Mac\SFX\player_footsteps_dirt_02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\footsteps\Dirt\player_footsteps_dirt_02		22528
+	640685255	player_footsteps_grass_02	Y:\Documents\GitHub\backtrace-game-jam\TestWwise_WwiseProject\.cache\Mac\SFX\player_footsteps_grass_02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\footsteps\Grass\player_footsteps_grass_02		47022
+	652853125	player_footsteps_dirt_03	Y:\Documents\GitHub\backtrace-game-jam\TestWwise_WwiseProject\.cache\Mac\SFX\player_footsteps_dirt_03_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\footsteps\Dirt\player_footsteps_dirt_03		16422
+	687332179	player_footsteps_grass_01	Y:\Documents\GitHub\backtrace-game-jam\TestWwise_WwiseProject\.cache\Mac\SFX\player_footsteps_grass_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\footsteps\Grass\player_footsteps_grass_01		38326
+	701220376	player_footsteps_concrete_02	Y:\Documents\GitHub\backtrace-game-jam\TestWwise_WwiseProject\.cache\Mac\SFX\player_footsteps_concrete_02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\footsteps\Concrete\player_footsteps_concrete_02		67672
+	725827829	player_footsteps_wood_01	Y:\Documents\GitHub\backtrace-game-jam\TestWwise_WwiseProject\.cache\Mac\SFX\player_footsteps_wood_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\footsteps\Wood\player_footsteps_wood_01		67764
+	856609515	Pickup_Sword	Y:\Documents\GitHub\backtrace-game-jam\TestWwise_WwiseProject\.cache\Mac\SFX\pickup_sword_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Interactable\Weapons\Pickup_Sword		204288
 	877233872	Test	Y:\Documents\GitHub\backtrace-game-jam\TestWwise_WwiseProject\.cache\Mac\SFX\Cartoon, Misc, Cartoon Character, High Pitched Laughter, Hysterical, Funny, Male 2 SND15255 2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Test		171504
 
