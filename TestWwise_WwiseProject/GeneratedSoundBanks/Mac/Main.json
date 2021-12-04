@@ -16,7 +16,7 @@
     "Id": "3161908922",
     "GUID": "{B2899488-88F5-40EF-AA84-425F182C44EF}",
     "Language": "SFX",
-    "Hash": "1623632348",
+    "Hash": "1644892551",
     "ObjectPath": "\\SoundBanks\\Default Work Unit\\Main",
     "ShortName": "Main",
     "Path": "Main.bnk",
@@ -160,6 +160,57 @@
           "Id": "652853125"
          }
         ]
+       }
+      ]
+     },
+     {
+      "Id": "1589366028",
+      "Name": "pickup_bow",
+      "ObjectPath": "\\Events\\Default Work Unit\\pickup_bow",
+      "GUID": "{8111AD22-5499-4FF6-8E7E-FE5B12F0FE83}",
+      "DurationType": "OneShot",
+      "DurationMin": "1.157279",
+      "DurationMax": "1.157279",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "407407223",
+        "Language": "SFX",
+        "ShortName": "pickup_bow.wav",
+        "Path": "SFX/pickup_bow_10C4C929.wem"
+       }
+      ]
+     },
+     {
+      "Id": "2436859237",
+      "Name": "pickup_revolver",
+      "ObjectPath": "\\Events\\Default Work Unit\\pickup_revolver",
+      "GUID": "{B8E5BF5B-6806-4A09-8EB6-947B3A28568D}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.920816",
+      "DurationMax": "0.920816",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "456488536",
+        "Language": "SFX",
+        "ShortName": "pickup_revolver.wav",
+        "Path": "SFX/pickup_revolver_10C4C929.wem"
+       }
+      ]
+     },
+     {
+      "Id": "4170103955",
+      "Name": "pickup_sword",
+      "ObjectPath": "\\Events\\Default Work Unit\\pickup_sword",
+      "GUID": "{8AC17457-0499-438B-8294-1E40B2B39A8F}",
+      "DurationType": "OneShot",
+      "DurationMin": "1.157279",
+      "DurationMax": "1.157279",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "856609515",
+        "Language": "SFX",
+        "ShortName": "pickup_sword.wav",
+        "Path": "SFX/pickup_sword_10C4C929.wem"
        }
       ]
      },

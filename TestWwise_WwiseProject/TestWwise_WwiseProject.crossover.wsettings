@@ -3,6 +3,9 @@
 	<UserProjectSettingsInfo>
 		<UserProjectSettings Name="" ID="{1BBE9FEC-F3F3-4052-A1DF-534D35225842}">
 			<PropertyList>
+				<Property Name="Event Action List\{8111AD22-5499-4FF6-8E7E-FE5B12F0FE83}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Event Action List\{8AC17457-0499-438B-8294-1E40B2B39A8F}\x64_Expand States" Type="string" Value=""/>
+				<Property Name="Event Action List\{B8E5BF5B-6806-4A09-8EB6-947B3A28568D}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="Event Action List\{D4ACB12E-6CD3-405A-BB0F-1E174184C4EF}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="Event Action List\{F50CFCE8-F383-42C9-B8FA-DDDB4D358FF5}\x64_Expand States" Type="string" Value=""/>
 				<Property Name="EventView\FilterMode1" Type="int32" Value="2"/>
@@ -56,8 +59,8 @@
 				<Property Name="ProjectExplorer\x64_Expanded_20_1" Type="string" Value=""/>
 				<Property Name="ProjectExplorer\x64_Expanded_21_1" Type="string" Value=""/>
 				<Property Name="ProjectExplorer\x64_Expanded_22_1" Type="string" Value=""/>
-				<Property Name="ProjectExplorer\x64_Expanded_2_1" Type="string" Value="2KQUFaYdKkGhfnXKDCFJ85MdTRhaNyJKnvMxO+xSwKYk3saCJzeFS6FWbhbHUbhE"/>
-				<Property Name="ProjectExplorer\x64_Expanded_3_1" Type="string" Value="KZGuRX7LNkCQvc/aeTVdAUdtNAYaiVpAicV7aitYpVNeAXnbKkakQaMXknzwnhLUMOKtZ+liMUi/gSsmuFnj9kTEf8xrqY9KqD4+oLAJPwiQk3L6SabpSoVQaJyaUINE"/>
+				<Property Name="ProjectExplorer\x64_Expanded_2_1" Type="string" Value="kx1NGFo3Ikqe8zE77FLApg=="/>
+				<Property Name="ProjectExplorer\x64_Expanded_3_1" Type="string" Value="R200BhqJWkCJxXtqK1ilU14BedsqRqRBoxeSfPCeEtRaWAtJnSvjQoC3W4MJr5j2VZfTPvFuWUi/y804hQafKUTEf8xrqY9KqD4+oLAJPwhKqnkLn8ZtT4yQG1/J/bvU"/>
 				<Property Name="ProjectExplorer\x64_Expanded_4_1" Type="string" Value="iLbPPlDXVkmHO+tJ7zL+7g=="/>
 				<Property Name="ProjectExplorer\x64_Expanded_5_1" Type="string" Value="Z5EzHt5wjUOq3i70YAwaCY4aGo57vENEuSLMSg1R74k="/>
 				<Property Name="ProjectExplorer\x64_Expanded_6_1" Type="string" Value="nmvd2O2/1Eaguos1MmwyS1306ZIcdI9Jl1wu8vRXdyg="/>
